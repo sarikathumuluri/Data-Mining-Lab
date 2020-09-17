@@ -1,0 +1,14 @@
+%my data
+@relation student1
+@attribute rollno numeric
+@attribute name string
+@attribute dept {cse,ece,eee,it}
+@attribute class {PASS,FAIL}
+@attribute age numeric
+
+@data 
+12,juli,cse,PASS,23
+11,rani,ece,FAIL,25
+14,mani,ece,PASS,27
+19,nani,it,PASS,25
+20,suni,eee,PASS,26
